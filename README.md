@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on hands-on-projects
 - 📫 How to reach me ... E-mail: mehediimamshilu007@gmail.com
 - 🚩 LinkedIn: https://bit.ly/3nwCP1F
-- 🐤 Twitter: @mehediimamshilu
 
 <!---
 MehediImamShilu/MehediImamShilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
