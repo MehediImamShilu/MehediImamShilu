@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehediImamShilu
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Software Quality Assurance
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on hands-on-projects
 - 📫 How to reach me ... E-mail: mehediimamshilu007@gmail.com
